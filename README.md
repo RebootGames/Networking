@@ -1,4 +1,3 @@
-
 # Networking 
 
 ## Task 1:
@@ -12,7 +11,7 @@ Attempt to compete the Configuring Initial Switch Settings (Task 2) Packet Trace
 ## Task 3:
 Attempt to complete the Implementing Basic Connectivity (Task 3) Packet Tracer Worksheet
 
- 
+
 ## Task 4:
 Setup A simple network of 2 PC connected to a router (review the online tutorial for additional help): https://www.youtube.com/watch?v=VqMeJ-WH4E0%20PKT%20video
 
@@ -38,7 +37,7 @@ The Server should use the IP:
 The Router (aka Gateway) should use the IP: 
 * 192.168.1.1
 
-  
+
 ### Local Network 2
 You are required to design a local STAR network connected via a switch to 3 PCs, 1 Server and 1 router
 
@@ -53,10 +52,12 @@ The Server should use the IP:
 The Router (or Gateway) should use the IP: 
 * 192.168.10.1
 
- 
+
+
 ### Wide Area Network
 Both the should be connected and be able to communicate with each other and allow any PC on either network to PING and other PC and any
 network 
+
 
 
 ### Expanding the Local Area Networks
@@ -66,12 +67,14 @@ network
 * Add Wireless Access (this can be on one or both networks)
 * Add Web Services (this can be on one or both networks)
 
- 
+
+
 ### Design and develop your Network
 * Design and test your network on design against the above requirements before starting
 * Implement your network in Packet Tracer
 * Ensure that you have applied a logical IP address scheme for PCs, Servers, Routers, Access Points, Printer, etc. 
- 
+
+
 
 ### Testing your Network
 * Test DHCP allocations are correct
@@ -81,13 +84,15 @@ network
 * Test Web Services across both networks
 * Use the simulation mode in Packet Tracer to help illustrate successful testing
 
- 
+
+
 ### Document and Analyse your network against the expected results
 * Ensure your network diagram is full labelled (DNS names, IP address, subnet masks, etc.)
 * Give each network (Network 1 & 2) a specific name (Network 1=Springfield, 2=Quahog)
 * Ensure your network documentation (README.md) have fully checked, section headings and proof-read content appropriate to the mapping document
 
- 
+
+
 ### Comparing Protocols
 * DHCP
 * DNS
